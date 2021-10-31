@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.kontejner {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgray;
+    border-radius: 1%;
+}
+
+.zena4 {
+    background-color: white;
+    width: 22%;
+    border-radius: 1%;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.zena1 {
+    background-color: white;
+    width: 22%;
+    border-radius: 1%;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.zena2 {
+    background-color: white;
+    width: 22%;
+    border-radius: 1%;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.zena3 {
+    background-color: white;
+    width: 22%;
+    border-radius: 1%;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.foto {
+    border-radius: 50%;
+    width: 150px;
+}
+
+.popis {
+    text-align: center;
+}
+
+.jmeno {
+    text-align: center;
+}
